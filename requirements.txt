@@ -7,4 +7,4 @@ yfinance
 youtube-transcript-api
 rich
 streamlit
-
+SQLAlchemy
