@@ -2,8 +2,9 @@ agno
 python-dotenv
 groq
 google-genai
-duckduckgo-search
+ddgs
 yfinance
 youtube-transcript-api
 rich
 streamlit
+
