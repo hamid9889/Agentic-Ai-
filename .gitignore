@@ -1,0 +1,23 @@
+# Environment and API keys
+.env
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Database and SQLite lock files
+*.db
+*.db-shm
+*.db-wal
+agno.db
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Streamlit secrets and logs
+.streamlit/secrets.toml
+*.log
